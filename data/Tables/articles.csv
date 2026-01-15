@@ -155,7 +155,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 154,Caractérisation d'instances d'apprentissage pour un méta-mining évolutionnaire,2016,fr,5,3,2,Apprentissage automatique et réseaux de connaissances
 155,Catégorisation et Désambiguïsation des Intérêts des Individus dans le Web Social,2016,fr,3,1,2,Extraction d’information et analyse documentaire web
 156,Clustering par apprentissage de distance guidé par des préférences sur les attributs,2016,fr,5,5,0,Apprentissage automatique et réseaux de connaissances
-157,Clustering visuel semi-interactif,2016,it,5,4,1,Règles d’association et génération de connaissances
+157,Clustering visuel semi-interactif,2016,fr,5,4,1,Règles d’association et génération de connaissances
 158,Combinaison de méthodes numériques et symboliques pour l'analyse de données métabolomiques,2016,fr,4,1,3,Analyse de motifs et séquences dans les données
 159,Concept drift vs suicide: comment l'un peut prévenir l'autre?,2016,fr,3,2,1,Apprentissage automatique et réseaux de connaissances
 160,Construction incrémentale d'une structure hiérarchique pour l'exploration visuelle et interactive de larges collections d'images,2016,fr,4,2,2,Apprentissage automatique et réseaux de connaissances
@@ -263,7 +263,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 262,L'apport d'une approche symbolique pour le repérage des entités nommées en langue amazighe,2015,fr,3,1,2,Apprentissage automatique et réseaux de connaissances
 263,LeveragingWeb 2.0 for Informed Real-Estate Services,2015,en,7,5,2,Data mining et gestion de flux de données
 264,Linked Data Annotation and Fusion driven by Data Quality Evaluation,2015,en,3,0,3,Ontologies et traitement sémantique du texte
-265,Managing Big Multidimensional Data,2015,tl,1,1,0,
+265,Managing Big Multidimensional Data,2015,en,1,1,0,
 266,Mesure d'influence via les indicateurs de centralité dans les réseaux sociaux,2015,fr,2,1,1,Apprentissage automatique et réseaux de connaissances
 267,Méthode alternative à la détection de « copier/coller » : intersection de textes et construction de séquences maximales communes ,2015,fr,2,2,0,Analyse de séries temporelles et données spatio-temporelles
 268,Mining Classes by Multi-label Classification,2015,en,2,2,0,Ontologies et traitement sémantique du texte
@@ -430,7 +430,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 429,Une approche en programmation par contraintes pour la classification non supervisée,2013,fr,3,1,2,Recherche d’information et traitement d’images
 430,Une nouvelle mesure pour l'évaluation des méthodes d'extraction de thématiques : la Vraisemblance Généralisée,2013,fr,4,2,2,Règles d’association et génération de connaissances
 431,Unsupervised Video Tag Correction System,2013,en,5,4,1,Data mining et gestion de flux de données
-432,Validation d'une carte cognitive,2013,it,4,4,0,
+432,Validation d'une carte cognitive,2013,fr,4,4,0,
 433,Vers un cadre évolutif de classification non supervisée,2013,fr,3,2,1,Recherche d’information et traitement d’images
 434,Vers une architecture multicouche d'ontologies dédiée à la résolution mixte de problèmes,2013,fr,3,1,2,Ontologies et traitement sémantique du texte
 435,Vers une Automatisation de la Construction de Variables pour la Classification Supervisée,2013,fr,2,2,0,Recherche d’information et traitement d’images
@@ -534,7 +534,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 533,Détection de redondances dans les tableaux guidée par une ontologie,2011,fr,4,1,3,Ontologies et traitement sémantique du texte
 534,Détection des profils à long terme et à court terme dans les réseaux sociaux,2011,fr,3,1,2,Apprentissage automatique et réseaux de connaissances
 535,Early Classification on Temporal Sequences,2011,en,1,0,0,Data mining et gestion de flux de données
-536,Entropic-Genetic Clustering,2011,ro,3,2,1,Règles d’association et génération de connaissances
+536,Entropic-Genetic Clustering,2011,en,3,2,1,Règles d’association et génération de connaissances
 537,Equilibrer l'analyse des motifs fréquents,2011,fr,3,3,0,Aide à la décision et analyse multidimensionnelle
 538,Equivalence topologique entre mesures de proximité,2011,fr,3,3,0,Apprentissage automatique et réseaux de connaissances
 539,Estimation de la densité d'arcs dans les graphes de grande taille: une alternative à la détection de clusters,2011,fr,1,1,0,Apprentissage automatique et réseaux de connaissances
@@ -563,7 +563,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 562,Modélisation de la propagation de l'information sur le Web : de l'extraction des données à la simulation,2011,fr,4,3,1,Extraction d’information et analyse documentaire web
 563,Moteur de questions réponses à partir de données du web sémantique,2011,fr,1,1,0,Extraction d’information et analyse documentaire web
 564,Moteur de questions-réponses d'une base de connaissances,2011,fr,2,2,0,Règles d’association et génération de connaissances
-565,Motifs Séquentiels delta-Libres,2011,ca,3,3,0,
+565,Motifs Séquentiels delta-Libres,2011,fr,3,3,0,
 566,MuMIe: Une Approche Automatique pour l'Interopérabilité des Métadonnées,2011,fr,4,4,0,Apprentissage automatique et réseaux de connaissances
 567,Nomao : la recherche géolocalisée personnalisée,2011,fr,1,1,0,Apprentissage automatique et réseaux de connaissances
 568,Nouvelle approche de fouille de graphes AC-réduits fréquents,2011,fr,4,4,0,Apprentissage automatique et réseaux de connaissances
@@ -636,7 +636,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 635,Comparaisons structurelles de grandes bases de données par apprentissage non-supervisé,2010,fr,2,2,0,Analyse de motifs et séquences dans les données
 636,Composition de ServicesWeb Basée sur les Réseau Sociaux,2010,fr,4,4,0,Apprentissage automatique et réseaux de connaissances
 637,Construction de noyaux pour l'apprentissage supervisé à partir d'arbres aléatoires,2010,fr,3,3,0,Visualisation et exploration interactive de données
-638,Cubes Fermés / Quotients Émergents,2010,ca,4,3,1,
+638,Cubes Fermés / Quotients Émergents,2010,fr,4,3,1,
 639,DaFOE: une plateforme pour construire des ontologies à partir de textes et de thésaurus,2010,fr,10,4,6,Ontologies et traitement sémantique du texte
 640,Découverte d'itemsets fréquents fermés sur architectures multicoeurs,2010,fr,4,4,0,Apprentissage automatique et réseaux de connaissances
 641,Découverte des dépendances fonctionnelles conditionnelles fréquentes,2010,fr,2,2,0,Apprentissage automatique et réseaux de connaissances
@@ -652,7 +652,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 651,Exploration de dépendances fonctionnelles et de règles d'association avec OLAP,2010,fr,2,2,0,Data mining et gestion de flux de données
 652,Extraction d'itemsets distinctifs dans les flux de données,2010,fr,2,2,0,Analyse de motifs et séquences dans les données
 653,Extraction de la région d'intérêt d'une personne sur un obstacle,2010,fr,4,4,0,Règles d’association et génération de connaissances
-654,Extraction de motifs graduels clos,2010,ca,4,2,2,
+654,Extraction de motifs graduels clos,2010,fr,4,2,2,
 655,Extraction de règles d'association séquentielle à l'aide de modèles semi-paramétriques à risques proportionnels,2010,fr,4,4,0,Data mining et gestion de flux de données
 656,Extraction des séquences fermées fréquentes à partir de corpus parallèles : Application à la traduction automatique,2010,fr,4,3,1,Analyse de séries temporelles et données spatio-temporelles
 657,Fouille visuelle de données en 3D et réalité virtuelle : état de l'art,2010,fr,3,2,1,Analyse de motifs et séquences dans les données
@@ -689,14 +689,14 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 688,Regrouper les données textuelles et nommer les groupes à l'aide de classes recouvrantes,2010,fr,3,2,1,Analyse de motifs et séquences dans les données
 689,Requêtes skyline avec prise en compte des préférences utilisateurs pour des données volumineuses,2010,fr,4,1,3,Analyse de motifs et séquences dans les données
 690,Résumé généraliste de flux de données,2010,fr,2,1,1,Analyse de motifs et séquences dans les données
-691,RSS Merger,2010,de,2,2,0,
+691,RSS Merger,2010,autre,2,2,0,
 692,SALINES : un automate au service de l'extraction de motifs séquentiels multidimensionnels,2010,fr,5,4,1,Aide à la décision et analyse multidimensionnelle
 693,Sélection par entropie de descripteurs textuels pour la catégorisation de documents,2010,fr,2,1,1,Visualisation et exploration interactive de données
 694,Self-Clustering for Identification of Customer Purchase Behaviours,2010,en,3,3,0,Règles d’association et génération de connaissances
 695,SequencesViewer : comment rendre accessible des motifs séquentiels de gènes trop nombreux,2010,fr,5,3,2,Aide à la décision et analyse multidimensionnelle
 696,SIAM: Système d'Indexation des Articles Médicaux,2010,fr,3,2,1,Apprentissage automatique et réseaux de connaissances
 697,Simplification de données de vol pour un stockage optimal et une visualisation accélérée,2010,fr,4,4,0,Analyse de motifs et séquences dans les données
-698,SimTole,2010,fi,2,2,0,
+698,SimTole,2010,autre,2,2,0,
 699,SoTree : Auto-organisation topologique et hiérarchique des données,2010,fr,2,1,1,Analyse de motifs et séquences dans les données
 700,Sous-échantillonnage topographique par apprentissage semi-supervisé,2010,fr,2,2,0,Apprentissage automatique et réseaux de connaissances
 701,Suivi d'Automobiles par Classification Hiérarchique Ascendante,2010,fr,3,3,0,Recherche d’information et traitement d’images
@@ -726,7 +726,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 725,Analyse de données pour la construction de modèles de procédures neurochirurgicales,2009,fr,5,5,0,Analyse de motifs et séquences dans les données
 726,Analyse et application de modèles de régression pour optimiser le retour sur investissement d'opérations commerciales,2009,fr,5,5,0,Apprentissage automatique et réseaux de connaissances
 727,Analyse et application de modèles de régression pour optimiser le retour sur investissement d'opérations commerciales,2009,fr,5,5,0,Apprentissage automatique et réseaux de connaissances
-728,Analyse multigraduelle OLAP,2009,ca,2,2,0,Apprentissage automatique et réseaux de connaissances
+728,Analyse multigraduelle OLAP,2009,fr,2,2,0,Apprentissage automatique et réseaux de connaissances
 729,Analyse sémantique spatio-temporelle pour les ontologies OWL-DL,2009,fr,3,1,2,Ontologies et traitement sémantique du texte
 730,Assessing the uncertainty in knn Data Fusion,2009,en,3,3,0,Ontologies et traitement sémantique du texte
 731,Binary Sequences and Association Graphs for Fast Detection of Sequential Patterns,2009,en,2,2,0,Big Data (Concept et dynamique globale)
@@ -774,7 +774,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 773,Méthode de regroupement par graphe de voisinage,2009,fr,1,1,0,Apprentissage automatique et réseaux de connaissances
 774,Modèle de préférences contextuelles pour les analyses OLAP,2009,fr,4,4,0,Apprentissage automatique et réseaux de connaissances
 775,Modélisation des connaissances dans le cadre de bibliothèques numériques spécialisées,2009,fr,2,1,1,Règles d’association et génération de connaissances
-776,Okmed et Wokm,2009,da,1,1,0,
+776,Okmed et Wokm,2009,fr,1,1,0,
 777,Online and Adaptive Anomaly Detection: Detecting Intrusions in Unlabelled Audit Data Streams,2009,en,4,3,1,Analyse de motifs et séquences dans les données
 778,Partitionnement d'ontologies pour le passage à l'échelle des techniques d'alignement,2009,fr,4,1,3,Ontologies et traitement sémantique du texte
 779,Privacy and Data Mining: New Developments and Challenges,2009,en,1,1,0,Ontologies et traitement sémantique du texte
@@ -799,7 +799,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 798,Vers le traitement à grande échelle de données symboliques,2009,fr,3,3,0,Analyse de motifs et séquences dans les données
 799,Vers une utilisation améliorée de relations spatiales pour l'apprentissage de données dans les modèles graphiques,2009,fr,2,1,1,Analyse de motifs et séquences dans les données
 800,A spatial rough set for extracting the periurban fringe,2008,en,3,2,1,Apprentissage automatique et réseaux de connaissances
-801,Algorithmes rapides de boosting de SVM,2008,af,3,3,0,Apprentissage automatique et réseaux de connaissances
+801,Algorithmes rapides de boosting de SVM,2008,fr,3,3,0,Apprentissage automatique et réseaux de connaissances
 802,Analyse exploratoire d'opinions cinématographiques : co-clustering de corpus textuels communautaires,2008,fr,3,2,1,Apprentissage automatique et réseaux de connaissances
 803,Apport des traitements morpho-syntaxiques pour l'alignement des définitions par une classification SVM,2008,fr,3,1,2,Recherche d’information et traitement d’images
 804,Approche d'annotation automatique des événements,2008,fr,2,1,1,Apprentissage automatique et réseaux de connaissances
@@ -1149,7 +1149,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 1148,Manipulation et fusion de données multidimensionnelles,2005,fr,3,3,0,Analyse de motifs et séquences dans les données
 1149,Méthode de construction d'ontologie de termes à partir du treillis de l'iceberg de Galois,2005,fr,3,3,0,Ontologies et traitement sémantique du texte
 1150,Microarray data mining : recent advances,2005,en,1,1,0,Ontologies et traitement sémantique du texte
-1151,Mining Frequent Queries in Star Schemes,2005,de,4,2,1,
+1151,Mining Frequent Queries in Star Schemes,2005,en,4,2,1,
 1152,Modélisation d'objets mobiles dans un entrepôt de données,2005,fr,2,0,1,Analyse de motifs et séquences dans les données
 1153,Modélisation d'un agent émotionnel en UML et RDF,2005,fr,5,3,2,Apprentissage automatique et réseaux de connaissances
 1154,Modélisation de connaissances pour un système de médiation,2005,fr,3,2,1,Règles d’association et génération de connaissances
@@ -1242,7 +1242,7 @@ id_article,title,year,language,Nb_authors,Nb_male,Nb_female,theme
 1241,OpAC : Opérateur d'analyse en ligne basé sur une technique de fouilles de données,2004,fr,4,2,2,Analyse de motifs et séquences dans les données
 1242,Optimisation des requêtes temporelles sur le web,2004,fr,3,2,1,Extraction d’information et analyse documentaire web
 1243,Outil de représentation des évolutions de communautés d'intérêts,2004,fr,2,1,1,Apprentissage automatique et réseaux de connaissances
-1244,PoBOC : un algorithme de ,2004,ca,3,2,1,
+1244,PoBOC : un algorithme de ,2004,fr,3,2,1,
 1245,Positionnement multidimensionnel et partitionnement pour la visualisation de données multivariées,2004,fr,1,1,0,Analyse de motifs et séquences dans les données
 1246,Qualité et datawarehouse dans le milieu hospitalier,2004,fr,3,2,1,Apprentissage automatique et réseaux de connaissances
 1247,Recherche ciblée de documents sur le web,2004,fr,1,1,0,Extraction d’information et analyse documentaire web
