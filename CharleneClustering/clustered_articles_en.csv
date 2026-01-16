@@ -1,123 +1,123 @@
-id,title,year,language,Nb_authors,Nb_male,Nb_female,theme,keywords
-2,A two level co-clustering algorithm for very large data sets,2018,en,3,3,3,Flux données,pas encore
-11,Big Data for understanding human dynamics: the power of networks,2018,en,1,1,1,Graphes,pas encore
-15,Community structure in complex networks,2018,en,1,1,1,Graphes,pas encore
-40,Long-range influences in (social) networks,2018,en,1,1,1,Graphes,pas encore
-42,Mean-shift : Clustering scalable et distribué,2018,en,4,4,4,Clustering,pas encore
-57,Recommendation-based Keyword Search over Relational Databases,2018,en,3,3,3,Règles d'association,pas encore
-59,Reframing for Non-Linear Dataset Shift,2018,en,4,4,4,Graphes,pas encore
-64,Temporal hints in the cultural heritage discourse: what can an ontology of time as it is worded reveal?,2018,en,3,3,3,Graphes,pas encore
-72,A Hybrid Approach for Detecting Influencers in Social Media,2017,en,7,7,7,Flux données,pas encore
-90,Deep Dive on Smart Cities by Scaling Reasoning and Interpreting the Semantics of IoT,2017,en,1,1,1,Web sémantique,pas encore
-94,Enhanced user-user collaborative filtering recommendation algorithm based on semantic ratings,2017,en,3,3,3,Recommandation,pas encore
-109,Machine Learning Based Classification of Android Apps through Text Features,2017,en,3,3,3,Graphes,pas encore
-110,Machine Learning for the Semantic Web: filling the gaps in Ontology Mining,2017,en,1,1,1,Graphes,pas encore
-116,PORGY : a Visual Analytics Platform for System Modelling and Analysis Based on Graph Rewriting,2017,en,6,6,6,Visualisation,pas encore
-143,"“Engage moi”: From retrieval effectiveness, user satisfaction to user engagement",2017,en,1,1,1,Recommandation,pas encore
-144,A Relevant Passage Retrieval and Re-ranking Approach for Open-Domain Question Answering,2016,en,2,2,2,Recommandation,pas encore
-147,Analyse exploratoire par k-Coclustering avec Khiops CoViz,2016,en,5,5,5,Graphes,pas encore
-157,Clustering visuel semi-interactif,2016,en,5,5,5,Clustering,pas encore
-177,Fairness-Aware Data Mining,2016,en,1,1,1,Apprentissage automatique,pas encore
-190,"Learning from Massive, Incompletely annotated & Structured Data",2016,en,1,1,1,Apprentissage automatique,pas encore
-211,TOM: A library for topic modeling and browsing,2016,en,2,2,2,Graphes,pas encore
-212,Topic modeling and hypergraph mining to analyze the EGC conference history,2016,en,3,3,3,Apprentissage automatique,pas encore
-213,"Towards generic and efficient constraint-based mining, a constraint programming approach",2016,en,1,1,1,Apprentissage automatique,pas encore
-228,A Clustering Based Approach for Type Discovery in RDF Data Sources,2015,en,2,2,2,Règles d'association,pas encore
-229,A Framework for Mesh Segmentation and Annotation using Ontologies,2015,en,4,4,4,Graphes,pas encore
-236,Big Data and the Dawn of Algorithms in Everything,2015,en,1,1,1,Apprentissage automatique,pas encore
-237,Big Data is all about data that we don't have,2015,en,1,1,1,Apprentissage automatique,pas encore
-238,"Challenges and Opportunities in HCI, Visual Analytics and Knowledge Management for the development of Sustainable Cities",2015,en,1,1,1,Visualisation,pas encore
-244,"Comparison of linear modularization criteria using the relational formalism, an approach to easily identify resolution limit",2015,en,3,3,3,Web sémantique,pas encore
-256,Feedback - Study and Improvement of the Random Forest of the Mahout library in the context of marketing data of Orange,2015,en,4,4,4,Apprentissage automatique,pas encore
-263,LeveragingWeb 2.0 for Informed Real-Estate Services,2015,en,7,7,7,Graphes,pas encore
-264,Linked Data Annotation and Fusion driven by Data Quality Evaluation,2015,en,3,3,3,Apprentissage automatique,pas encore
-268,Mining Classes by Multi-label Classification,2015,en,2,2,2,Apprentissage automatique,pas encore
-279,To initiate a corporate memory with a knowledge compendium: ten years of learning from experience with the Ardans method,2015,en,2,2,2,Graphes,pas encore
-280,Towards Linked Data Extraction From Tweets,2015,en,4,4,4,Web sémantique,pas encore
-281,Ultrametricity of Dissimilarity Spaces and Its Significance for Data Mining,2015,en,3,3,3,Apprentissage automatique,pas encore
-290,Using Social Conversational Context For Detecting Users Interactions on Microblogging Sites,2015,en,3,3,3,Recommandation,pas encore
-293,Visualizing Shooting Spots using Geo-tagged Photographs from Social Media Sites,2015,en,4,4,4,Graphes,pas encore
-305,Automatic correction of SVM for drifted data classification,2014,en,3,3,3,Apprentissage automatique,pas encore
-306,Broad Data: What happens when the Web of Data becomes real?,2014,en,1,1,1,Apprentissage automatique,pas encore
-340,Incremental learning with latent factor models for attribute prediction in social-attribute networks,2014,en,3,3,3,Graphes,pas encore
-349,Mining the Crowd,2014,en,1,1,1,Graphes,pas encore
-359,Representative training sets for classification and the variability of empirical distributions,2014,en,2,2,2,Règles d'association,pas encore
-366,The Hitchhiker's Guide to Ontology,2014,en,1,1,1,Graphes,pas encore
-384,A POS Tagger analysed in collaboration environments and literary texts,2013,en,2,2,2,Web sémantique,pas encore
-396,Detecting Academic Plagiarism with Graphs,2013,en,2,2,2,Flux données,pas encore
-414,Non-disjoint grouping of text documents based Word Sequence Kernel,2013,en,3,3,3,Web sémantique,pas encore
-426,"Towards a New Science of Big Data Analytics, based on the Geometry and the Topology of Complex, Hierarchic Systems",2013,en,1,1,1,Visualisation,pas encore
-431,Unsupervised Video Tag Correction System,2013,en,5,5,5,Graphes,pas encore
-438,Antipattern Detection inWeb Ontologies: an Experiment using SPARQL Queries,2012,en,5,5,5,Sécurité,pas encore
-441,Biological event extraction using SVM and composite kernel function,2012,en,3,3,3,Web sémantique,pas encore
-453,Community Detection in Social Networks with Attribute and Relationship Data,2012,en,2,2,2,Graphes,pas encore
-457,Development of a distributed recommender system using the Hadoop Framework,2012,en,3,3,3,Graphes,pas encore
-458,Evaluating Bayesian Networks by Sampling with Simplified Assumptions,2012,en,2,2,2,Graphes,pas encore
-469,Human Detection by a Small Autonomous Mobile Robot,2012,en,3,3,3,Sécurité,pas encore
-474,Mining Genetic Interactions in Genome-Wide Association Study,2012,en,1,1,1,Clustering,pas encore
-476,PLS path modeling and regularized generalized canonical correlation analysis for multi-block data analysis,2012,en,1,1,1,Apprentissage automatique,pas encore
-480,Relational Learning from Spatial Data: Retrospect and Prospect,2012,en,1,1,1,Apprentissage automatique,pas encore
-485,Solving Problems with Visual Analytics: Challenges and Applications,2012,en,1,1,1,Visualisation,pas encore
-489,Topological Decomposition and Heuristics for High Speed Clustering of Complex Networks,2012,en,2,2,2,Clustering,pas encore
-496,User Evaluation: Why?,2012,en,1,1,1,Recommandation,pas encore
-523,Closed-set-based Discovery of Representative Association Rules Revisited,2011,en,2,2,2,Règles d'association,pas encore
-525,Complex Information Processing,2011,en,1,1,1,Web sémantique,pas encore
-529,Data stream summarization by on-line histograms clustering,2011,en,3,3,3,Flux données,pas encore
-535,Early Classification on Temporal Sequences,2011,en,1,1,1,Graphes,pas encore
-536,Entropic-Genetic Clustering,2011,en,3,3,3,Clustering,pas encore
-558,"Mobility, Data Mining and Privacy: Mining Human Movement Patterns from Trajectory Data",2011,en,1,1,1,Apprentissage automatique,pas encore
-571,Parameter-free association rule mining with yacaree,2011,en,1,1,1,Règles d'association,pas encore
-572,Point of View Based Clustering of Socio-Semantic Networks,2011,en,3,3,3,Clustering,pas encore
-578,Reasoning about the learning process,2011,en,1,1,1,Graphes,pas encore
-586,Towards a DistributedWeb Search Engine,2011,en,1,1,1,Graphes,pas encore
-604,Action Rules and Meta-actions,2010,en,1,1,1,Règles d'association,pas encore
-614,Applying Markov Logic to Document Annotation and Citation Deduplication,2010,en,2,2,2,Graphes,pas encore
-642,Density estimation on data streams : an application to Change Detection,2010,en,3,3,3,Flux données,pas encore
-643,Detecting Anomalies in Data Streams using Statecharts,2010,en,5,5,5,Flux données,pas encore
-659,Identifying the Presence of Communities in Complex Networks Through Topological Decomposition and Component Densities,2010,en,2,2,2,Graphes,pas encore
-672,Mysins : Make Your Semantic INformation System,2010,en,7,7,7,Web sémantique,pas encore
-673,Objective Novelty of Association Rules: Measuring the Confidence Boost1,2010,en,1,1,1,Règles d'association,pas encore
-675,"Pattern Mining: The Past, Present, and Future",2010,en,1,1,1,Apprentissage automatique,pas encore
-682,Protein Graph Repository,2010,en,2,2,2,Graphes,pas encore
-683,Recent Advances in Partitioning Clustering Algorithms for Interval-Valued Data,2010,en,1,1,1,Clustering,pas encore
-694,Self-Clustering for Identification of Customer Purchase Behaviours,2010,en,3,3,3,Clustering,pas encore
-703,Tulip: a Scalable Graph Visualization Framework,2010,en,10,10,10,Graphes,pas encore
-715,Visual Sentence-Phrase-Based Document Representation for Effective and Efficient Content-Based Image Retrieval,2010,en,4,4,4,Visualisation,pas encore
-718,A Contextualization Service for a Personalized Access Model,2009,en,4,4,4,Graphes,pas encore
-722,Aggregative and Neighboring Approximations to Query Semi-Structured Documents,2009,en,4,4,4,Graphes,pas encore
-723,An approach for handling risk and uncertainty in multiarmed bandit problems,2009,en,2,2,2,Visualisation,pas encore
-730,Assessing the uncertainty in knn Data Fusion,2009,en,3,3,3,Apprentissage automatique,pas encore
-731,Binary Sequences and Association Graphs for Fast Detection of Sequential Patterns,2009,en,2,2,2,Sécurité,pas encore
-736,Collaborative Outlier Mining for Intrusion Detection,2009,en,5,5,5,Sécurité,pas encore
-739,Constraint Programming for Data Mining,2009,en,1,1,1,Apprentissage automatique,pas encore
-766,Handling Texts ? A Challenge for Data Mining,2009,en,1,1,1,Apprentissage automatique,pas encore
-771,"Logiciel « DtmVic » Data and Text Mining: Visualisation, Inférence, Classification",2009,en,1,1,1,Apprentissage automatique,pas encore
-777,Online and Adaptive Anomaly Detection: Detecting Intrusions in Unlabelled Audit Data Streams,2009,en,5,5,5,Flux données,pas encore
-779,Privacy and Data Mining: New Developments and Challenges,2009,en,1,1,1,Apprentissage automatique,pas encore
-780,Probabilistic Multi-classifier by SVMs from voting rule to voting features,2009,en,3,3,3,Règles d'association,pas encore
-800,A spatial rough set for extracting the periurban fringe,2008,en,3,3,3,Règles d'association,pas encore
-816,Data mining for activity extraction in video data,2008,en,4,4,4,Apprentissage automatique,pas encore
-820,Discretization of Continuous Features by Resampling,2008,en,2,2,2,Graphes,pas encore
-824,Enhancing Personal File Retrieval in Semantic File Systems with Tag-Based Context,2008,en,3,3,3,Web sémantique,pas encore
-829,Extraction d'itemsets compacts,2008,en,2,2,2,Web sémantique,pas encore
-836,From Mining the Web to Inventing the New Sciences Underlying the Internet,2008,en,1,1,1,Graphes,pas encore
-855,Mining Implications from Lattices of Closed Trees,2008,en,3,3,3,Règles d'association,pas encore
-873,Semantics of Spatial Window over Spatio-Temporal Data Stream,2008,en,2,2,2,Flux données,pas encore
-877,Structure Inference of Bayesian Networks from Data: A New Approach Based on Generalized Conditional Entropy,2008,en,2,2,2,Web sémantique,pas encore
-921,Clustering : from model-based approaches to heuristic algorithms,2007,en,1,1,1,Clustering,pas encore
-941,Finding interesting queries in relational databases,2007,en,1,1,1,Règles d'association,pas encore
-945,Interestingness in Data Mining,2007,en,1,1,1,Apprentissage automatique,pas encore
-956,Optimal histogram representation of large data sets: Fisher vs piecewise linear approximation,2007,en,2,2,2,Règles d'association,pas encore
-968,SyRQuS - Recherche par combinaison de graphes RDF,2007,en,1,1,1,Graphes,pas encore
-1008,Biclustering of Gene Expression Data Based on Local Nearness,2006,en,3,3,3,Règles d'association,pas encore
-1046,Finding fragments of orders and total orders from 0-1 data,2006,en,1,1,1,Règles d'association,pas encore
-1056,Maintaining an Online Bibliographical Database: The Problem of Data Quality,2006,en,2,2,2,Visualisation,pas encore
-1119,Classifying XML Materialized Views for their maintenance on distributed Web sources,2005,en,3,3,3,Graphes,pas encore
-1150,Microarray data mining : recent advances,2005,en,1,1,1,Apprentissage automatique,pas encore
-1173,SSC : Statistical Subspace Clustering,2005,en,4,4,4,Clustering,pas encore
-1188,A Galois connecion semantics-based approach for deriving generic bases of association rules,2004,en,4,4,4,Règles d'association,pas encore
-1190,A robust method for partitioning the values of categorical attributes,2004,en,1,1,1,Graphes,pas encore
-1217,Extraction of text summary using latent semantic indexing and information retrieval technique : comparison of four strategies,2004,en,2,2,2,Web sémantique,pas encore
-1224,How well go Lattice algorithms on currently used machine leaning TestBeds ?,2004,en,2,2,2,Graphes,pas encore
-1233,Mediating the Semantic Web,2004,en,2,2,2,Web sémantique,pas encore
-1240,MUSETTE : a framework for knowledge capture from experience,2004,en,3,3,3,Graphes,pas encore
+id,title,year,language,Nb_authors,Nb_male,Nb_female,theme,keywords,title_clean
+2,A two level co-clustering algorithm for very large data sets,2018,en,3,3,3,Flux & Temporalité,pas encore,degree co bunch algorithm large data set
+11,Big Data for understanding human dynamics: the power of networks,2018,en,1,1,1,Analyse de Graphes,pas encore,big datum understand homo moral_force power network
+15,Community structure in complex networks,2018,en,1,1,1,Analyse de Graphes,pas encore,community structure complex network
+40,Long-range influences in (social) networks,2018,en,1,1,1,Analyse de Graphes,pas encore,hanker scope influence sociable network
+42,Mean-shift : Clustering scalable et distribué,2018,en,4,4,4,Classification & Clustering,pas encore,mean shift bunch scalable et distribué
+57,Recommendation-based Keyword Search over Relational Databases,2018,en,3,3,3,Règles d'Association,pas encore,recommendation base keyword search relational database
+59,Reframing for Non-Linear Dataset Shift,2018,en,4,4,4,Analyse de Graphes,pas encore,reframe non linear dataset shift
+64,Temporal hints in the cultural heritage discourse: what can an ontology of time as it is worded reveal?,2018,en,3,3,3,Analyse de Graphes,pas encore,temporal_role hint cultural heritage discourse ontology time word uncover
+72,A Hybrid Approach for Detecting Influencers in Social Media,2017,en,7,7,7,Flux & Temporalité,pas encore,loanblend approach detect influencer sociable medium
+90,Deep Dive on Smart Cities by Scaling Reasoning and Interpreting the Semantics of IoT,2017,en,1,1,1,Web sémantique,pas encore,deep honkytonk smart city scale reasoning interpret semantic iot
+94,Enhanced user-user collaborative filtering recommendation algorithm based on semantic ratings,2017,en,3,3,3,Recherche d'Information,pas encore,enhance user user collaborative filter recommendation algorithm base semantic evaluation
+109,Machine Learning Based Classification of Android Apps through Text Features,2017,en,3,3,3,Analyse de Graphes,pas encore,machine learning base categorization android app text feature
+110,Machine Learning for the Semantic Web: filling the gaps in Ontology Mining,2017,en,1,1,1,Analyse de Graphes,pas encore,machine learning semantic web fill gap ontology mining
+116,PORGY : a Visual Analytics Platform for System Modelling and Analysis Based on Graph Rewriting,2017,en,6,6,6,Visualisation,pas encore,porgy ocular analytic platform system modeling analysis base graph rewrite
+143,"“Engage moi”: From retrieval effectiveness, user satisfaction to user engagement",2017,en,1,1,1,Recherche d'Information,pas encore,prosecute moi retrieval effectiveness user satisfaction user battle
+144,A Relevant Passage Retrieval and Re-ranking Approach for Open-Domain Question Answering,2016,en,2,2,2,Recherche d'Information,pas encore,relevant passage retrieval ranking approach open sphere question answer
+147,Analyse exploratoire par k-Coclustering avec Khiops CoViz,2016,en,5,5,5,Analyse de Graphes,pas encore,analyze exploratoire par k coclustere avec khiop coviz
+157,Clustering visuel semi-interactif,2016,en,5,5,5,Classification & Clustering,pas encore,bunch visuel semifinal interactif
+177,Fairness-Aware Data Mining,2016,en,1,1,1,Big Data,pas encore,fairness aware datum mining
+190,"Learning from Massive, Incompletely annotated & Structured Data",2016,en,1,1,1,Big Data,pas encore,learn massive incompletely annotate structure datum
+211,TOM: A library for topic modeling and browsing,2016,en,2,2,2,Analyse de Graphes,pas encore,tom library subject mold browse
+212,Topic modeling and hypergraph mining to analyze the EGC conference history,2016,en,3,3,3,Big Data,pas encore,subject mold hypergraph mining analyze egc conference history
+213,"Towards generic and efficient constraint-based mining, a constraint programming approach",2016,en,1,1,1,Big Data,pas encore,generic efficient constraint base mining constraint scheduling approach
+228,A Clustering Based Approach for Type Discovery in RDF Data Sources,2015,en,2,2,2,Règles d'Association,pas encore,bunch base approach type discovery rdf data beginning
+229,A Framework for Mesh Segmentation and Annotation using Ontologies,2015,en,4,4,4,Analyse de Graphes,pas encore,model mesh cleavage note ontology
+236,Big Data and the Dawn of Algorithms in Everything,2015,en,1,1,1,Big Data,pas encore,big datum dawn algorithm
+237,Big Data is all about data that we don't have,2015,en,1,1,1,Big Data,pas encore,big datum datum
+238,"Challenges and Opportunities in HCI, Visual Analytics and Knowledge Management for the development of Sustainable Cities",2015,en,1,1,1,Visualisation,pas encore,challenge opportunity hci ocular analytic cognition management development sustainable city
+244,"Comparison of linear modularization criteria using the relational formalism, an approach to easily identify resolution limit",2015,en,3,3,3,Web sémantique,pas encore,comparison linear modularization standard relational formalism approach easily identify resolution limit
+256,Feedback - Study and Improvement of the Random Forest of the Mahout library in the context of marketing data of Orange,2015,en,4,4,4,Big Data,pas encore,feedback survey improvement random forest mahout library context selling datum orange
+263,LeveragingWeb 2.0 for Informed Real-Estate Services,2015,en,7,7,7,Analyse de Graphes,pas encore,leveragingweb 2.0 inform real_number estate service
+264,Linked Data Annotation and Fusion driven by Data Quality Evaluation,2015,en,3,3,3,Big Data,pas encore,link datum note fusion drive datum quality evaluation
+268,Mining Classes by Multi-label Classification,2015,en,2,2,2,Big Data,pas encore,mining class multi label categorization
+279,To initiate a corporate memory with a knowledge compendium: ten years of learning from experience with the Ardans method,2015,en,2,2,2,Analyse de Graphes,pas encore,novice corporate memory cognition collection year learn experience ardans method
+280,Towards Linked Data Extraction From Tweets,2015,en,4,4,4,Web sémantique,pas encore,link datum extraction tweet
+281,Ultrametricity of Dissimilarity Spaces and Its Significance for Data Mining,2015,en,3,3,3,Big Data,pas encore,ultrametricity dissimilarity space significance datum mining
+290,Using Social Conversational Context For Detecting Users Interactions on Microblogging Sites,2015,en,3,3,3,Recherche d'Information,pas encore,sociable colloquial context detect user interaction microblogge site
+293,Visualizing Shooting Spots using Geo-tagged Photographs from Social Media Sites,2015,en,4,4,4,Analyse de Graphes,pas encore,visualize shoot topographic_point geo tag photograph sociable medium site
+305,Automatic correction of SVM for drifted data classification,2014,en,3,3,3,Big Data,pas encore,automatic_rifle correction svm drift datum categorization
+306,Broad Data: What happens when the Web of Data becomes real?,2014,en,1,1,1,Big Data,pas encore,broad datum happen web datum real_number
+340,Incremental learning with latent factor models for attribute prediction in social-attribute networks,2014,en,3,3,3,Analyse de Graphes,pas encore,incremental learning latent factor model property prediction sociable property network
+349,Mining the Crowd,2014,en,1,1,1,Analyse de Graphes,pas encore,mine crowd
+359,Representative training sets for classification and the variability of empirical distributions,2014,en,2,2,2,Règles d'Association,pas encore,representative training set categorization variability empirical distribution
+366,The Hitchhiker's Guide to Ontology,2014,en,1,1,1,Analyse de Graphes,pas encore,hitchhiker usher ontology
+384,A POS Tagger analysed in collaboration environments and literary texts,2013,en,2,2,2,Web sémantique,pas encore,pos tagger analyze collaboration environment literary text
+396,Detecting Academic Plagiarism with Graphs,2013,en,2,2,2,Flux & Temporalité,pas encore,detect academician plagiarism graph
+414,Non-disjoint grouping of text documents based Word Sequence Kernel,2013,en,3,3,3,Web sémantique,pas encore,non disassociate group text document base word sequence kernel
+426,"Towards a New Science of Big Data Analytics, based on the Geometry and the Topology of Complex, Hierarchic Systems",2013,en,1,1,1,Visualisation,pas encore,new science big datum analytic base geometry topology complex hierarchical system
+431,Unsupervised Video Tag Correction System,2013,en,5,5,5,Analyse de Graphes,pas encore,unsupervised video tag correction system
+438,Antipattern Detection inWeb Ontologies: an Experiment using SPARQL Queries,2012,en,5,5,5,Fouille de Motifs,pas encore,antipattern detection inweb ontology experiment sparql question
+441,Biological event extraction using SVM and composite kernel function,2012,en,3,3,3,Web sémantique,pas encore,biological event extraction svm complex kernel function
+453,Community Detection in Social Networks with Attribute and Relationship Data,2012,en,2,2,2,Analyse de Graphes,pas encore,community detection sociable network property relationship datum
+457,Development of a distributed recommender system using the Hadoop Framework,2012,en,3,3,3,Analyse de Graphes,pas encore,development distribute recommender system hadoop model
+458,Evaluating Bayesian Networks by Sampling with Simplified Assumptions,2012,en,2,2,2,Analyse de Graphes,pas encore,measure Bayesian network sample simplify premise
+469,Human Detection by a Small Autonomous Mobile Robot,2012,en,3,3,3,Fouille de Motifs,pas encore,homo detection small autonomous Mobile automaton
+474,Mining Genetic Interactions in Genome-Wide Association Study,2012,en,1,1,1,Classification & Clustering,pas encore,mine familial interaction genome wide association survey
+476,PLS path modeling and regularized generalized canonical correlation analysis for multi-block data analysis,2012,en,1,1,1,Big Data,pas encore,pls way mold regulate generalize canonic correlation analysis multi block datum analysis
+480,Relational Learning from Spatial Data: Retrospect and Prospect,2012,en,1,1,1,Big Data,pas encore,relational learn spatial datum retrospect prospect
+485,Solving Problems with Visual Analytics: Challenges and Applications,2012,en,1,1,1,Visualisation,pas encore,solve problem ocular analytic challenge application
+489,Topological Decomposition and Heuristics for High Speed Clustering of Complex Networks,2012,en,2,2,2,Classification & Clustering,pas encore,topological decomposition heuristic high speed bunch complex network
+496,User Evaluation: Why?,2012,en,1,1,1,Recherche d'Information,pas encore,user evaluation
+523,Closed-set-based Discovery of Representative Association Rules Revisited,2011,en,2,2,2,Règles d'Association,pas encore,stopping_point set base discovery representative association rule revisit
+525,Complex Information Processing,2011,en,1,1,1,Web sémantique,pas encore,complex information processing
+529,Data stream summarization by on-line histograms clustering,2011,en,3,3,3,Flux & Temporalité,pas encore,datum stream summarization line histogram bunch
+535,Early Classification on Temporal Sequences,2011,en,1,1,1,Analyse de Graphes,pas encore,early categorization temporal_role sequence
+536,Entropic-Genetic Clustering,2011,en,3,3,3,Classification & Clustering,pas encore,entropic familial bunch
+558,"Mobility, Data Mining and Privacy: Mining Human Movement Patterns from Trajectory Data",2011,en,1,1,1,Big Data,pas encore,mobility datum mining privacy mining homo motion form trajectory datum
+571,Parameter-free association rule mining with yacaree,2011,en,1,1,1,Règles d'Association,pas encore,parameter free association rule mining yacaree
+572,Point of View Based Clustering of Socio-Semantic Networks,2011,en,3,3,3,Classification & Clustering,pas encore,point position base bunch socio semantic network
+578,Reasoning about the learning process,2011,en,1,1,1,Analyse de Graphes,pas encore,reason learning procedure
+586,Towards a DistributedWeb Search Engine,2011,en,1,1,1,Analyse de Graphes,pas encore,distributedweb search engine
+604,Action Rules and Meta-actions,2010,en,1,1,1,Règles d'Association,pas encore,action rule meta action
+614,Applying Markov Logic to Document Annotation and Citation Deduplication,2010,en,2,2,2,Analyse de Graphes,pas encore,use Markov logic document note citation deduplication
+642,Density estimation on data streams : an application to Change Detection,2010,en,3,3,3,Flux & Temporalité,pas encore,density appraisal data stream application change detection
+643,Detecting Anomalies in Data Streams using Statecharts,2010,en,5,5,5,Flux & Temporalité,pas encore,detect anomaly data stream statechart
+659,Identifying the Presence of Communities in Complex Networks Through Topological Decomposition and Component Densities,2010,en,2,2,2,Analyse de Graphes,pas encore,identify presence community complex network topological decomposition component density
+672,Mysins : Make Your Semantic INformation System,2010,en,7,7,7,Web sémantique,pas encore,mysin semantic information system
+673,Objective Novelty of Association Rules: Measuring the Confidence Boost1,2010,en,1,1,1,Règles d'Association,pas encore,aim freshness association rule measure assurance boost1
+675,"Pattern Mining: The Past, Present, and Future",2010,en,1,1,1,Big Data,pas encore,form mining past present future
+682,Protein Graph Repository,2010,en,2,2,2,Analyse de Graphes,pas encore,protein graph depository
+683,Recent Advances in Partitioning Clustering Algorithms for Interval-Valued Data,2010,en,1,1,1,Classification & Clustering,pas encore,Holocene progress partition bunch algorithm time_interval value datum
+694,Self-Clustering for Identification of Customer Purchase Behaviours,2010,en,3,3,3,Classification & Clustering,pas encore,self bunch designation customer purchase behavior
+703,Tulip: a Scalable Graph Visualization Framework,2010,en,10,10,10,Analyse de Graphes,pas encore,tulip scalable graph visual_image model
+715,Visual Sentence-Phrase-Based Document Representation for Effective and Efficient Content-Based Image Retrieval,2010,en,4,4,4,Visualisation,pas encore,ocular sentence phrase base document representation effective efficient content base image retrieval
+718,A Contextualization Service for a Personalized Access Model,2009,en,4,4,4,Analyse de Graphes,pas encore,contextualization service personalize entree model
+722,Aggregative and Neighboring Approximations to Query Semi-Structured Documents,2009,en,4,4,4,Analyse de Graphes,pas encore,aggregate neighbor estimate question semifinal structure document
+723,An approach for handling risk and uncertainty in multiarmed bandit problems,2009,en,2,2,2,Visualisation,pas encore,approach handle hazard uncertainty multiarme bandit problem
+730,Assessing the uncertainty in knn Data Fusion,2009,en,3,3,3,Big Data,pas encore,measure uncertainty knn datum fusion
+731,Binary Sequences and Association Graphs for Fast Detection of Sequential Patterns,2009,en,2,2,2,Fouille de Motifs,pas encore,binary_star sequence association graph fast detection consecutive form
+736,Collaborative Outlier Mining for Intrusion Detection,2009,en,5,5,5,Fouille de Motifs,pas encore,collaborative outlier mining invasion detection
+739,Constraint Programming for Data Mining,2009,en,1,1,1,Big Data,pas encore,constraint scheduling datum mining
+766,Handling Texts ? A Challenge for Data Mining,2009,en,1,1,1,Big Data,pas encore,handle text challenge datum mining
+771,"Logiciel « DtmVic » Data and Text Mining: Visualisation, Inférence, Classification",2009,en,1,1,1,Big Data,pas encore,logiciel dtmvic datum text mining visual_image inférence categorization
+777,Online and Adaptive Anomaly Detection: Detecting Intrusions in Unlabelled Audit Data Streams,2009,en,5,5,5,Flux & Temporalité,pas encore,on-line adaptive anomaly detection detect invasion unlabeled audited_account datum stream
+779,Privacy and Data Mining: New Developments and Challenges,2009,en,1,1,1,Big Data,pas encore,privacy datum mining new development challenge
+780,Probabilistic Multi-classifier by SVMs from voting rule to voting features,2009,en,3,3,3,Règles d'Association,pas encore,probabilistic multi classifier svms vote rule vote feature
+800,A spatial rough set for extracting the periurban fringe,2008,en,3,3,3,Règles d'Association,pas encore,spatial rough set infusion periurban periphery
+816,Data mining for activity extraction in video data,2008,en,4,4,4,Big Data,pas encore,datum mining activity extraction video datum
+820,Discretization of Continuous Features by Resampling,2008,en,2,2,2,Analyse de Graphes,pas encore,discretization continuous feature resample
+824,Enhancing Personal File Retrieval in Semantic File Systems with Tag-Based Context,2008,en,3,3,3,Web sémantique,pas encore,enhance personal file retrieval semantic file system tag base context
+829,Extraction d'itemsets compacts,2008,en,2,2,2,Web sémantique,pas encore,extraction d'itemset compact
+836,From Mining the Web to Inventing the New Sciences Underlying the Internet,2008,en,1,1,1,Analyse de Graphes,pas encore,mine web invent new science underlie internet
+855,Mining Implications from Lattices of Closed Trees,2008,en,3,3,3,Règles d'Association,pas encore,mining deduction lattice stopping_point tree
+873,Semantics of Spatial Window over Spatio-Temporal Data Stream,2008,en,2,2,2,Flux & Temporalité,pas encore,semantics spatial window spatio temporal_role datum stream
+877,Structure Inference of Bayesian Networks from Data: A New Approach Based on Generalized Conditional Entropy,2008,en,2,2,2,Web sémantique,pas encore,structure inference Bayesian network datum new approach base generalize conditional information
+921,Clustering : from model-based approaches to heuristic algorithms,2007,en,1,1,1,Classification & Clustering,pas encore,bunch model base approach heuristic algorithm
+941,Finding interesting queries in relational databases,2007,en,1,1,1,Règles d'Association,pas encore,discovery interest question relational database
+945,Interestingness in Data Mining,2007,en,1,1,1,Big Data,pas encore,interest datum mining
+956,Optimal histogram representation of large data sets: Fisher vs piecewise linear approximation,2007,en,2,2,2,Règles d'Association,pas encore,optimum histogram representation large datum set fisherman vs piecewise linear estimate
+968,SyRQuS - Recherche par combinaison de graphes RDF,2007,en,1,1,1,Analyse de Graphes,pas encore,syrqus exquisite par combinaison de graph rdf
+1008,Biclustering of Gene Expression Data Based on Local Nearness,2006,en,3,3,3,Règles d'Association,pas encore,biclustering gene expression datum base local nearness
+1046,Finding fragments of orders and total orders from 0-1 data,2006,en,1,1,1,Règles d'Association,pas encore,discovery fragment order sum order 0 1 datum
+1056,Maintaining an Online Bibliographical Database: The Problem of Data Quality,2006,en,2,2,2,Visualisation,pas encore,keep on-line bibliographic database problem datum quality
+1119,Classifying XML Materialized Views for their maintenance on distributed Web sources,2005,en,3,3,3,Analyse de Graphes,pas encore,classify xml happen position care distribute web beginning
+1150,Microarray data mining : recent advances,2005,en,1,1,1,Big Data,pas encore,microarray datum mining Holocene progress
+1173,SSC : Statistical Subspace Clustering,2005,en,4,4,4,Classification & Clustering,pas encore,ssc statistical subspace bunch
+1188,A Galois connecion semantics-based approach for deriving generic bases of association rules,2004,en,4,4,4,Règles d'Association,pas encore,Galois connecion semantic base approach deduce generic footing association rule
+1190,A robust method for partitioning the values of categorical attributes,2004,en,1,1,1,Analyse de Graphes,pas encore,robust method partition value categorical property
+1217,Extraction of text summary using latent semantic indexing and information retrieval technique : comparison of four strategies,2004,en,2,2,2,Web sémantique,pas encore,extraction text summary latent semantic indexing information retrieval technique comparison scheme
+1224,How well go Lattice algorithms on currently used machine leaning TestBeds ?,2004,en,2,2,2,Analyse de Graphes,pas encore,lattice algorithm presently machine tilt testbed
+1233,Mediating the Semantic Web,2004,en,2,2,2,Web sémantique,pas encore,intercede semantic web
+1240,MUSETTE : a framework for knowledge capture from experience,2004,en,3,3,3,Analyse de Graphes,pas encore,musette model cognition capture experience
