@@ -2,9 +2,9 @@ import pandas as pd
 import gender_guesser.detector as gender
 
 # --- CONFIGURATION ---
-INPUT_FILE = './data/authors.csv'
-OUTPUT_AUTHORS = './data/table_auteurs.csv'
-OUTPUT_GENDERS = './data/table_genres.csv'
+INPUT_FILE = '../01.Data/Sources/authors.csv'
+OUTPUT_AUTHORS = '../01.Data/Tables/table_auteurs.csv'
+OUTPUT_GENDERS = '../01.Data/Tables/table_genres.csv'
 
 def main():
     print("1. Chargement et préparation...")
