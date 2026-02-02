@@ -38,10 +38,16 @@ Contient les métadonnées des articles publiés.
 
 ## 🛠 Organisation & Contraintes
 
-* **Groupe :** 4 à 5 personnes (mixité recommandée avec des profils ayant suivi le cours d'ingénierie des données).
-* **Outils :** Choix libre (Solutions Open Source privilégiées).
+* **Groupe :** 
+- Charlène BROUTIER
+- Yousra BOUHANNA
+- Elias AIT-HASSOU
+- Mélissa BOULOUFA
+- Camille LAVERIE
+* **Outils :**
+- Python
+- Power BI
 * **Restitution :** Communication orale de 20 minutes.
-* **Date de rendu :** Vendredi 16 janvier (après-midi).
 
 ## 🚀 Pistes d'exploration
 
